@@ -1,0 +1,10 @@
+/* Forcer l'application du CSS sur les mobiles et assurer le plein écran */
+@media (max-width: 768px) {
+    .video-background video {
+        min-width: 100vw;
+        min-height: 100vh;
+        width: 100vw;
+        height: 100vh;
+        object-fit: cover;
+    }
+}
