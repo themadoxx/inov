@@ -8902,7 +8902,7 @@ body.menu-mobile-transparent:not(.hmenu-center) .menu-absolute.menu-transparent 
   }
   .menu-container .logo-container {
     position: relative;
-    padding: 27px 36px 27px 36px !important;
+    padding: 0px 36px 0px 36px !important;
   }
   .main-menu-container {
     float: left;
