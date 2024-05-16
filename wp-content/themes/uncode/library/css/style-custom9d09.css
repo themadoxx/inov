@@ -596,8 +596,8 @@
 /*----------------------------------------------------------
 #'SF-Pro-Display',Roboto,Sans-Serif
 ----------------------------------------------------------*/
-.font-377884 { font-family: 'Poppins',Roboto,Sans-Serif !important; }
-.btn-custom-typo.font-377884 { font-family: 'Poppins',Roboto,Sans-Serif !important; }
+.font-377884 { font-family: Poppins !important; }
+.btn-custom-typo.font-377884 { font-family: Poppins !important; }
 
 /*----------------------------------------------------------
 #Nunito
@@ -781,7 +781,7 @@ h6:not([class*="fontsize-"]),.h6:not([class*="fontsize-"]) { font-size: 14px; }
 /* #GENERAL */
 body {
   font-weight: 400;
-  font-family: 'Poppins',Roboto,Sans-Serif;
+  font-family: Poppins;
 }
 ::selection {
   background: #f6842d;
@@ -1023,7 +1023,7 @@ h6,
 ul.dwls_search_results .daves-wordpress-live-search_title .search-title {
   letter-spacing: 0.00em;
   font-weight: 600;
-  font-family: 'Poppins',Roboto,Sans-Serif;
+  font-family: Poppins;
 }
 /* #Headings-color */
 .style-dark .headings-color,
@@ -2110,7 +2110,7 @@ button[type="submit"],
 }
 .uncode-noconsent-gdpr-text {
   font-weight: 400;
-  font-family: 'Poppins',Roboto,Sans-Serif;
+  font-family: Poppins;
 }
 /*
 ----------------------------------------------------------
@@ -2394,11 +2394,11 @@ button[type="submit"],
 /* #Font-family-menu */
 .font-family-menu,
 .menu-container:not(.isotope-filters) ul.menu-smart a:not(.social-menu-link) {
-  font-family: 'Poppins',Roboto,Sans-Serif;
+  font-family: Poppins;
 }
 @media (max-width: 959px) {
   .menu-primary ul.menu-smart a {
-    font-family: 'Poppins',Roboto,Sans-Serif;
+    font-family: Poppins;
     font-weight: 600;
   }
 }
