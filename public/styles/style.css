@@ -1,3 +1,53 @@
+.catalogue-section {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.catalogue-section h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.catalogue-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.catalogue-item {
+    background-color: #fefefe;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    overflow: hidden;
+    width: 300px;
+    text-align: left;
+}
+
+.catalogue-item iframe {
+    width: 100%;
+    height: 400px;
+    border: none;
+}
+
+.btn-download {
+    display: block;
+    background-color: #571F63;
+    color: #fff;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-download:hover {
+    background-color: #52c735;
+}
+
 /* Forcer l'application du CSS sur les mobiles et assurer le plein écran */
 @media (max-width: 768px) {
     .video-background video {
