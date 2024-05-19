@@ -37,7 +37,7 @@ Text Domain: uncode
 .post-type-archive-portfolio .tmb:hover  .t-entry-text{display: flex;}
 .post-type-archive-portfolio .tmb-no-bg:not(.tmb-content-lateral).tmb .t-entry-text .t-entry-text-tc {display: flex;align-content: center;justify-content: center;justify-items: center;align-items: center;color: #fff;}
 .post-type-archive-portfolio .tmb-light.tmb .t-entry-text .t-entry-title a {color: #fff;font-size: 18px !important;position: absolute;text-align: center;left: 0;top: 0;right: 0;bottom: 0;display: flex;align-content: center;justify-content: center;justify-items: center;align-items: center;}
-.post-type-archive-portfolio .tmb .t-entry-visual img {width: auto;max-width: none;position: relative;display: block;height: 130%;}
+.post-type-archive-portfolio .tmb .t-entry-visual img {border-radius:20px; width: auto;max-width: none;position: relative;display: block;height: 130%;}
 .post-type-archive-portfolio .tmb .t-entry-visual .pushed, .tmb .t-entry-visual .t-entry-visual-cont > a {overflow: hidden;position: absolute;top: 50%;bottom: 0;left: 50%;right: 0;transform: translate(-50%,-50%);width: 100%;height: 100%;}
 .post-type-archive-portfolio .tmb .dummy {padding-top: 60% !important; }
 

@@ -1843,6 +1843,7 @@ body:not(.video-not-supported) .column-background .uncode-video-container.self-v
   .main-container .row.row-parent:not(.row-slider):not(.row-header),
   .main-container .row .row-parent:not(.row-slider):not(.row-header) .row {
     height: auto !important;
+    padding: 0px 20px 0px 20px;
   }
   .main-container .row.row-parent:not(.row-slider):not(.row-header) .row-child,
   .main-container .row .row-parent:not(.row-slider):not(.row-header) .row .row-child {

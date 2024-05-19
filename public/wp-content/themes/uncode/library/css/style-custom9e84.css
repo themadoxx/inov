@@ -90,7 +90,7 @@
 /*----------------------------------------------------------
 #color-wayh
 ----------------------------------------------------------*/
-.style-color-wayh-bg { background-color: #141618; }
+.style-color-wayh-bg { background-color: #fff; }
 .btn-color-wayh { color: #ffffff !important; background-color: #141618 !important; border-color: #141618 !important; }
 .btn-color-wayh:not(.btn-hover-nobg):not(.icon-animated):hover, .btn-color-wayh:not(.btn-hover-nobg):not(.icon-animated):focus, .btn-color-wayh:not(.btn-hover-nobg):not(.icon-animated):active { background-color: transparent !important; border-color: #141618 !important;}
 .btn-color-wayh.btn-flat:not(.btn-hover-nobg):hover, .btn-color-wayh.btn-flat:not(.btn-hover-nobg):focus, .btn-color-wayh.btn-flat:active { background-color: #07090b !important; border-color: #07090b !important;}
